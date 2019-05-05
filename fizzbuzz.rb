@@ -7,5 +7,7 @@ elsif int % 5 == 0
   "Buzz"
 elsif int % 3 == 0
   "Fizz"
+else 
+  nil
 end
 end
